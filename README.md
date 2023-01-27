@@ -4,6 +4,8 @@
 
 # Running the application (development)
 
+1. Copy the .env.copy file and rename it to .env
+
 2. Be sure than docker and docker compose are installed.
 
 For docker:
